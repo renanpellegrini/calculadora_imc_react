@@ -1,0 +1,22 @@
+.imc-result {
+    padding: 20px;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    margin-top: 20px;
+  }
+  
+  .imc-result h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .imc-result p {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .imc-result strong {
+    color: #007bff;
+  }
+  
